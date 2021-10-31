@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyahuascaDMT
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning codes
-- 💞️ I’m looking to collaborate on sinmulation/singularity
+- 💞️ I’m looking to collaborate on simulation/singularity
 - 📫 How to reach me ?
 
 <!---
